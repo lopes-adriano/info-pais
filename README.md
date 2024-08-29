@@ -13,7 +13,7 @@ Este projeto é um mock de API que retorna dados sobre países. Não é uma API 
 1. Clone o repositório:
 
   ```bash
-  git clone https://github.com/lopes-adriano/info-pais
+  git clone https://github.com/lopes-adriano/info-pais.git
   ```
 
 2. Instale as dependências:
